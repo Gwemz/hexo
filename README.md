@@ -1,2 +1,1 @@
-# hexo
-https://gwemz.github.io/hexo
+# winterGuo.github.io
